@@ -13,13 +13,13 @@ You can also use some drawing functions defined in st7567_drawing header.
 - [x] Full custom font support
 - [x] Custom I2C library support
 - [x] Char and C-string writing
-- [] Check whether driver was connected with given addres or not
-- [] Drawing functionality
+- [ ] Check whether driver was connected with given addres or not
+- [ ] Drawing functionality
   - [x] Rectangles
   - [x] Single Pixels
-  - [] More comples geometrical shapes
-  - [] Diagrams and graphics
-  - [] Custom pictures (you can just define custom font wih picture)
+  - [ ] More comples geometrical shapes
+  - [ ] Diagrams and graphics
+  - [ ] Custom pictures (you can just define custom font wih picture)
 
 ## Requirements
 
