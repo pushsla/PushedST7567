@@ -1,0 +1,24 @@
+{
+  "name": "PushedST7567",
+  "version": "0.0.1",
+  "description": "ST7567 display controller library. Originally created for 128x64 LCD displays.",
+  "keywords": "display, ST7567, LCD",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/pushsla/pushedst7567.git"
+  },
+  "authors":
+  [
+    {
+      "name": "pushsla",
+      "email": "push2001sla@gmail.com",
+      "url": "https://slavakievsky.github.io"
+    }
+  ],
+  "license": "DBAD_PS (see LICENSE file)",
+  "homepage": "https://github.com/pushsla/pushedst7576.git",
+  "dependencies": {},
+  "frameworks": "*",
+  "platforms": "atmelavr, espressif32"
+}
